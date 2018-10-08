@@ -1,0 +1,31 @@
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\bin\Release\Gestion Atelier.exe.config
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\bin\Release\Gestion Atelier.exe
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\bin\Release\Gestion Atelier.pdb
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.ajouter_article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.ajouter_avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.ajouter_employe.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.ajouter_fonction.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.calculer_salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.employes.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.fonctions.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.Acceuil.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.imprimer_pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.liste_avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.liste_employes.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.liste_fonctions.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.list_article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.list_pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.list_salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.modifier_pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.pointage_du_jour.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.pointage_manuellement.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.Properties.Resources.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion_Atelier.supprimer_employe.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion Atelier.csproj.GenerateResource.Cache
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion Atelier.csproj.CoreCompileInputs.cache
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion Atelier.exe
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Release\Gestion Atelier.pdb

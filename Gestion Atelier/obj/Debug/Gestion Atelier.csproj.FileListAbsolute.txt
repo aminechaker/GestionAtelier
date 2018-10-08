@@ -1,0 +1,124 @@
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.exe.config
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.exe
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.pdb
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.csprojResolveAssemblyReference.cache
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.Acceuil.resources
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.Properties.Resources.resources
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.csproj.GenerateResource.Cache
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.exe
+c:\users\amine chaker\documents\visual studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.pdb
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.employes.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.fonctions.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_employe.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_fonction.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_fonctions.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_employes.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.supprimer_employe.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage_du_jour.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.modifier_pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage_manuellement.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.calculer_salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2015\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.exe.config
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.exe
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.pdb
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.csprojResolveAssemblyReference.cache
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_employe.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_fonction.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.calculer_salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.employes.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.fonctions.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.Acceuil.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_avance.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_employes.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_fonctions.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_article.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.modifier_pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage_du_jour.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage_manuellement.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.Properties.Resources.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.salaire.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.supprimer_employe.resources
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.csproj.GenerateResource.Cache
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.exe
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.pdb
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.csproj.CoreCompileInputs.cache
+C:\Users\Amine CHAKER\Documents\Visual Studio 2017\Projects\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.imprimer_pointage.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.exe.config
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.exe
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.pdb
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.exe
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\Gestion Atelier.pdb
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.csprojResolveAssemblyReference.cache
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_article.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_avance.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_employe.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.ajouter_fonction.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.article.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.avance.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.calculer_salaire.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.employes.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.fonctions.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.Acceuil.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.imprimer_pointage.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_avance.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_employes.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.liste_fonctions.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_article.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_pointage.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.list_salaire.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.modifier_pointage.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage_du_jour.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.pointage_manuellement.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.Properties.Resources.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.salaire.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion_Atelier.supprimer_employe.resources
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.csproj.GenerateResource.Cache
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Amine CHAKER\Desktop\Gestion Atelier\Gestion Atelier\obj\Debug\Gestion Atelier.exe.licenses
